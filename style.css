@@ -2,9 +2,15 @@ head{
     background-color: rgb(9, 238, 20);
     color: red;
     text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    border: 5px solid violet;
+    padding: 16px;
 }
 main{
     background-color:blueviolet;
     color: royalblue;
     text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
